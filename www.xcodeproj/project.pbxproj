@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0483832D1B4D071A0082EC92 /* 11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0483832C1B4D071A0082EC92 /* 11@2x.png */; };
 		04AB77E31B4411E80032C9EF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AB77E21B4411E80032C9EF /* main.m */; };
 		04AB77E61B4411E80032C9EF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AB77E51B4411E80032C9EF /* AppDelegate.m */; };
 		04AB77E91B4411E80032C9EF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04AB77E81B4411E80032C9EF /* ViewController.m */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0483832C1B4D071A0082EC92 /* 11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "11@2x.png"; sourceTree = "<group>"; };
 		04AB77DD1B4411E80032C9EF /* www.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = www.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04AB77E11B4411E80032C9EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04AB77E21B4411E80032C9EF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		04AB77DF1B4411E80032C9EF /* www */ = {
 			isa = PBXGroup;
 			children = (
+				0483832C1B4D071A0082EC92 /* 11@2x.png */,
 				04AB77E41B4411E80032C9EF /* AppDelegate.h */,
 				04AB77E51B4411E80032C9EF /* AppDelegate.m */,
 				04AB77E71B4411E80032C9EF /* ViewController.h */,
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0483832D1B4D071A0082EC92 /* 11@2x.png in Resources */,
 				04AB77EC1B4411E80032C9EF /* Main.storyboard in Resources */,
 				04AB77F11B4411E80032C9EF /* LaunchScreen.xib in Resources */,
 				04AB77EE1B4411E80032C9EF /* Images.xcassets in Resources */,
@@ -414,6 +418,7 @@
 				04AB78021B4411E80032C9EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04AB78031B4411E80032C9EF /* Build configuration list for PBXNativeTarget "wwwTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +427,7 @@
 				04AB78051B4411E80032C9EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
